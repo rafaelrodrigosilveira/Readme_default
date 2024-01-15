@@ -14,7 +14,7 @@
 - [Instalação](#instalação)
 - [Execução](#execução)
 - [Problemas](#problemas)
-- [Autores](#autores)
+- [Autores](#autor)
 - [Licença](#licença)
 
 ## Sobre
